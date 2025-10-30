@@ -1,1 +1,0 @@
-export default function About(){return (<section><h2>Nosotros</h2><p>Información de la tienda.</p></section>)}

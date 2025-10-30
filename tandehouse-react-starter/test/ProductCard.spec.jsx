@@ -1,1 +1,0 @@
-describe('ProductCard (skeleton)', () => { it('renders', () => { expect(true).toBeTrue(); }); });
