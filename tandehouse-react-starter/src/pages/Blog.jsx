@@ -1,0 +1,1 @@
+export default function Blog(){return (<section><h2>Blog</h2><p>Noticias y artículos.</p></section>)}
